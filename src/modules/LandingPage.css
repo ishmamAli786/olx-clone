@@ -1,0 +1,30 @@
+.cols{
+    background-color: orange;
+    color:white
+}
+.cols:hover{
+    color:orange;
+    background-color: white;
+}
+.catgDev{
+    display:flex;
+    justify-content:space-around;
+    background-color:white;
+    box-shadow:5px 10px #888888
+}
+.mainContainer{
+    display:flex;
+    flex-direction:row;
+    margin-left:100px
+}
+.mainCol{
+    display:flex;
+    flex-direction:row;
+    margin-top:20px
+}
+.cardStyle{
+ font-size:12px;
+display:flex;
+justify-content:space-between;
+padding-top:10px
+}

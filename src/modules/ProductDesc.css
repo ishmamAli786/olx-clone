@@ -1,0 +1,17 @@
+.mainContainer{
+    display:flex;
+    justify-content:space-between;
+    margin-left:250px
+}
+.cardStyling{
+    width: 18rem;
+    margin-right:350px
+}
+.cardTitle{
+    display:flex;
+    justify-content: space-around
+}
+.cardText{
+    display:flex;
+    justify-content:space-between
+}
