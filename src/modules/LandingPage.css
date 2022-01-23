@@ -6,25 +6,25 @@
     color:orange;
     background-color: white;
 }
-.catgDev{
+/* .catgDev{
     display:flex;
     justify-content:space-around;
     background-color:white;
     box-shadow:5px 10px #888888
-}
-.mainContainer{
+} */
+/* .mainContainer{
     display:flex;
     flex-direction:row;
     margin-left:100px
-}
-.mainCol{
+} */
+/* .mainCol{
     display:flex;
     flex-direction:row;
     margin-top:20px
-}
-.cardStyle{
+} */
+/* .cardStyle{
  font-size:12px;
 display:flex;
 justify-content:space-between;
 padding-top:10px
-}
+} */
